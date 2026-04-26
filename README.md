@@ -89,8 +89,8 @@ The findings highlight the importance of **complex modeling approaches and riche
 ## 📊 Dashboard Screenshots
 
 📌 Power BI Dashboard: 
-![Page-1].(https://github.com/lovishaarora17/Public-Health-Data-Analysis/blob/main/Page1-Public%20Health%20Data.png)
-![Page-2].(https://github.com/lovishaarora17/Public-Health-Data-Analysis/blob/main/Page2-Risk%20Score%20Model.png)
+![Page-1](https://github.com/lovishaarora17/Public-Health-Data-Analysis/blob/main/Page1-Public%20Health%20Data.png)
+![Page-2](https://github.com/lovishaarora17/Public-Health-Data-Analysis/blob/main/Page2-Risk%20Score%20Model.png)
 
 ---
 
