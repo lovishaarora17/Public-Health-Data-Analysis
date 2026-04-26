@@ -1,13 +1,13 @@
 # 🏥 Public Healthcare Data Analysis & Risk Modeling
 
-## 📌 Overview
+## Overview
 
 This project explores a public health surveillance dataset using **SQL, Python (Pandas), and Power BI**.
 The goal was to analyze relationships between demographic, environmental, and healthcare variables, and to develop a **risk scoring model** for evaluating individual health vulnerability.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 * Perform data cleaning and preprocessing
 * Explore patterns in disease spread and healthcare metrics
@@ -17,7 +17,7 @@ The goal was to analyze relationships between demographic, environmental, and he
 
 ---
 
-## 🛠 Tools & Technologies
+## Tech Stack
 
 * **Python (Pandas, sqlalchemy)** → Data cleaning & feature engineering, exxporting into MySQL 
 * **SQL (MySQL--> Power Query, DAX, Data Modelling)** → Data querying & transformation
@@ -25,7 +25,7 @@ The goal was to analyze relationships between demographic, environmental, and he
 
 ---
 
-## 📊 Key Analysis Performed
+## Key Analysis Performed
 
 ### 🔹 Exploratory Data Analysis
 
@@ -59,7 +59,7 @@ Risk Score =
 
 ---
 
-## 🔍 Key Findings
+## Key Findings
 
 * Most variables showed **minimal variation**, leading to weak relationships
 * Disease outcomes were largely **uniform across demographics**
@@ -69,7 +69,7 @@ Risk Score =
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 
 * Dataset may be **synthetic or low in variability**
 * Weak correlations across most variables
@@ -78,7 +78,7 @@ Risk Score =
 
 ---
 
-## 🎯 Conclusion
+## Conclusion
 
 The analysis indicates that demographic and environmental factors had limited influence on disease outcomes within this dataset.
 However, temporal trends in case counts suggest possible external or seasonal effects.
@@ -86,7 +86,7 @@ The findings highlight the importance of **complex modeling approaches and riche
 
 ---
 
-## 📊 Dashboard Screenshots
+## Screenshots/Demo
 
 📌 Power BI Dashboard: 
 ![Page-1](https://github.com/lovishaarora17/Public-Health-Data-Analysis/blob/main/Page1-Public%20Health%20Data.png)
@@ -94,16 +94,16 @@ The findings highlight the importance of **complex modeling approaches and riche
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 * `/python/` → Data cleaning & feature engineering scripts
 * `/sql/` → SQL queries used for analysis
 * `/powerbi/` → Dashboard screenshots
-* `/data/` → Dataset (if allowed to share)
+* `/data/` → https://www.kaggle.com/datasets/datasetengineer/public-health-dataset
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 * Use machine learning models (regression/classification)
 * Incorporate real-world datasets
@@ -111,6 +111,6 @@ The findings highlight the importance of **complex modeling approaches and riche
 
 ---
 
-## 🙌 Author
+## Author
 
-Lovisha Arora
+~by Lovisha Arora
